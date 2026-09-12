@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Buddy</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 11 Sep 2026 22:10:12 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/buildwithmoses/buddy-releases/releases/download/v1.0/Buddy.dmg" length="10907524" type="application/octet-stream" sparkle:edSignature="mqkVUM8OjQwVyp1pH35PlbHi9HR3ODNXiLuTq10ZsL8hwnzDKrpktqm0CFg0yYZb+7M3dhA+G0KQ8UgWhXpcDw=="/>
+        </item>
+    </channel>
+</rss>
