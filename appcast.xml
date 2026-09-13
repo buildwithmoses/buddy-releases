@@ -3,6 +3,14 @@
     <channel>
         <title>Buddy</title>
         <item>
+            <title>1.4</title>
+            <pubDate>Sun, 13 Sep 2026 14:15:32 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/buildwithmoses/buddy-releases/releases/download/v1.4/Buddy.dmg" length="5071685" type="application/octet-stream" sparkle:edSignature="/yHLoVjYk9zKKEBI59M6oBuKCTkuIY6nvwGzxFCszw5pk4bb1XGU//fVIhhxmrmfiKvCAhri89F7bBj5rE1zAg=="/>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Sat, 12 Sep 2026 17:50:55 -0400</pubDate>
             <sparkle:version>4</sparkle:version>
