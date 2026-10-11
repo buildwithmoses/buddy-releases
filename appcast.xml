@@ -3,6 +3,14 @@
     <channel>
         <title>Buddy</title>
         <item>
+            <title>1.7.1</title>
+            <pubDate>Sun, 11 Oct 2026 15:22:27 -0400</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/buildwithmoses/buddy-releases/releases/download/v1.7.1/Buddy.dmg" length="6711900" type="application/octet-stream" sparkle:edSignature="MWMS7pnVPtmH2b7C2mabVl70MW3c62uUbeGW2c05PN/inanRDF9yKYX42bfZ7PXGsgRkG2aG02hezv510fBvDg=="/>
+        </item>
+        <item>
             <title>1.7</title>
             <pubDate>Sun, 11 Oct 2026 15:14:50 -0400</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/buildwithmoses/buddy-releases/releases/download/v1.6/Buddy.dmg" length="6622143" type="application/octet-stream" sparkle:edSignature="ZCAjqJYH1cyoseSTXJt6NaYgcwnTf9KJxOns+uhFOrDEM8kkoCgHpgK2XWIrIKEL+Waw3h5RaM10bNmMuIGxBQ=="/>
-        </item>
-        <item>
-            <title>1.5</title>
-            <pubDate>Sun, 11 Oct 2026 10:44:05 -0400</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/buildwithmoses/buddy-releases/releases/download/v1.5/Buddy.dmg" length="6640210" type="application/octet-stream" sparkle:edSignature="P9mMKqGyQ3cSizj8q/tcPwNXZnBUuMSE70JjvXW1p9l5hAuxaCLJZxheKibe8TYXWD1gdj/lET61T9cUbRYAAg=="/>
         </item>
     </channel>
 </rss>
